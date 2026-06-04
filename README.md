@@ -1,3 +1,14 @@
+---
+title: 시네마틱 영상 비율 변환기
+emoji: 🎬
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 6.15.2
+app_file: app.py
+pinned: false
+---
+
 # 🎬 시네마틱 영상 비율 변환기
 
 유튜브 쇼츠(9:16), 롱폼(16:9), 인스타그램(1:1, 4:5) 등 원하는 비율로 영상을 빠르게 변환하는 도구입니다.
